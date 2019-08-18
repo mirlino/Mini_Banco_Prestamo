@@ -1,0 +1,11 @@
+C:\Users\Mirlino\source\repos\Banco\bin\Debug\Banco.exe.config
+C:\Users\Mirlino\source\repos\Banco\bin\Debug\Banco.exe
+C:\Users\Mirlino\source\repos\Banco\bin\Debug\Banco.pdb
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.Inicio.resources
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.exe
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.pdb
+C:\Users\Mirlino\source\repos\Banco\obj\Debug\Banco.Prestamo.resources
